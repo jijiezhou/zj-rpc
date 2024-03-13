@@ -1,0 +1,17 @@
+
+b	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(õàË‚8²ªáÊã1
+g	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(¢º§¤ùÿÿÿÿ8³ªáÊã1
+Q
+java:S3740I"/Provide the parametrized type for this generic.(ù³£¯úÿÿÿÿ8³ªáÊã1
+z
+java:S1450"XRemove the "bossGroup" field and declare it as a local variable in the relevant methods.(ñĞÃ¥ıÿÿÿÿ8ÜË®Êã1
+|
+java:S1450"ZRemove the "workerGroup" field and declare it as a local variable in the relevant methods.(‹Íœ¾ıÿÿÿÿ8ŞË®Êã1
+N
+java:S1135"2Complete the task associated to this TODO comment.(£°§\8ãÇ˜Êã1
+S
+java:S2696&"6Make the enclosing method "static" or remove this set.(´‹Î8êË®Êã1
+S
+java:S2696'"6Make the enclosing method "static" or remove this set.(ıÏ¶ˆ8íË®Êã1
+G	java:S1066"+Replace this use of System.out by a logger.(’·Ô8¬âÎÊã1
+]	java:S125R"<This block of commented-out lines of code should be removed.(½ÜÉ—şÿÿÿÿ8¦ÎäÊã1
